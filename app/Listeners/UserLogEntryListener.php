@@ -30,6 +30,7 @@ class UserLogEntryListener
         insert([
             'user_id'   => auth()->user()->id,
             'log_entry'  => $event->log,
+            'created_at' => now()
         ]);
     }
 }

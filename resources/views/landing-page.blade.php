@@ -32,7 +32,7 @@
 </style>
 
 <div class="bg-text">
-    <h1>Welcome to iBlog</h1>
-    <h2>Blogging the reel world</h2>
+    <h1>Welcome to IStock</h1>
+    <h2>Trace your stocks here!</h2>
     <p>Click here to <a class="text-white" href="/register">register!</a></p>
   </div>
